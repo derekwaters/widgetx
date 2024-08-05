@@ -1,0 +1,14 @@
+{
+  "name": "widgetx",
+  "version": "1.0.0",
+  "description": "A widget for X things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
